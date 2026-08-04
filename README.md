@@ -33,8 +33,6 @@ I'm just someone trying to learn as much as I can. I spend my time tinkering wit
 🐈 Status: sniffing around codebases >:3
 ```
 
-📈 GitHub Stats
-
 📊 Repository Index
 
 Project	Type	Description	Link	
@@ -42,6 +40,8 @@ Project	Type	Description	Link
 local-ai	🤖 AI	Kotlin-based local AI project	[repo](https://github.com/sniffy-furry/local-ai)	
 
  [repo](private-repo)	
+
+ 
 🔍 Fork	Leaked system prompts collection	[repo](https://github.com/sniffy-furry/CL4R1T4S)	
 
 📫 Find me
@@ -51,3 +51,4 @@ local-ai	🤖 AI	Kotlin-based local AI project	[repo](https://github.com/sniffy-
 💭 "trying to learn as much as I can"
 
 ---
+         have a good day y'all
