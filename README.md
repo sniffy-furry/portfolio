@@ -4,7 +4,7 @@ haiii```markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00599C&height=225&section=header&text=sniffy%20%3A3&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learning%20%C2%B7%20Android%20%C2%B7%20Linux&descAlignY=55&descSize=18"/>
 
 <a href="https://github.com/sniffy-furry">
-<img src="https://readme-typing-svg.demolab.com/?lines=Learning%20something%20new%20every%20day.;Android%20%2B%20CachyOS%20enthusiast.;Just%20a%20sniffy%20cat%20on%20the%20internet%20%3A3&font=Fira%20Code&center=true&width=650&height=45&color=8A2BE2&vCenter=true&size=22&pause=1800"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Learning%20something%20new%20every%20day.;Android%20%2B%20CachyOS%20enthusiast.;Just%20a%20kitty%20cat%20on%20the%20internet%20%3A3&font=Fira%20Code&center=true&width=650&height=45&color=8A2BE2&vCenter=true&size=22&pause=1800"/>
 </a>
 
 <br/>
@@ -22,7 +22,7 @@ haiii```markdown
 
 ## 👋 About
 
-I'm just someone trying to learn as much as I can. I spend my time tinkering with Android, exploring Linux systems, and picking up whatever tech looks interesting.
+I'm just someone trying to learn as much as I can. I spend my time tinkering with crdroid and picking up whatever tech looks interesting,just like usual xd.
 
 > **My vibe:** stay curious, break things gently, and document the fix.
 
