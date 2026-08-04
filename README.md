@@ -51,4 +51,4 @@ local-ai	🤖 AI	Kotlin-based local AI project	[repo](https://github.com/sniffy-
 💭 "trying to learn as much as I can"
 
 ---
-         have a good day y'all
+            have a good day y'all
