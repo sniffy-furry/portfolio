@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A7BD5&height=225&section=header&text=YourUsername&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Low-Level%20Systems%20%C2%B7%20Android%20Modding%20%C2%B7%20CachyOS&descAlignY=55&descSize=18"/>
 
-<a href="https://github.com/YourUsername">
+<a href="https://github.com/sniffy-furry">
 <img src="https://readme-typing-svg.demolab.com/?lines=Break+the+system.+Understand+the+core.;Kernel+tweaks%2C+custom+builds%2C+and+pure+performance.;Building+apps+and+exploring+Android+internals.&font=Fira+Code&center=true&width=650&height=45&color=00D2FF&vCenter=true&size=22&pause=1800"/>
 </a>
 
@@ -25,7 +25,6 @@ Passionate about low-level hardware performance and exploring OS internals. I sp
 🐧 Main OS:             CachyOS (Arch-based performance power)
 📱 Focus:               Android Internals & Mobile Modding
 🛠️ Currently Building:  2 privacy & AI-focused system apps
-💬 Ask Me About:        Android modding, CachyOS tweaks, low-level optimization
 
 ```
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,100:3A7BD5&height=3&section=header"/>
