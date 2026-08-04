@@ -28,9 +28,9 @@ I'm just someone trying to learn as much as I can. I spend my time tinkering wit
 
 ```yaml
 🌱 Currently learning: Whatever I can get my hands on
-📱 Daily drivers: Android + CachyOS
-💬 Ask me about: Linux ricing, Android modding, being a cat
-🐈 Status: sniffing around codebases
+📱 Daily drivers: OnePlus 11 with custom rom
+💬 Ask me about: Android modding, being a cat
+🐈 Status: sniffing around codebases >:3
 ```
 
 📈 GitHub Stats
@@ -38,9 +38,11 @@ I'm just someone trying to learn as much as I can. I spend my time tinkering wit
 📊 Repository Index
 
 Project	Type	Description	Link	
+
 local-ai	🤖 AI	Kotlin-based local AI project	[repo](https://github.com/sniffy-furry/local-ai)	
-portfolio	📝 Docs	This is my portfolio, I hope it's good enough	[repo](https://github.com/sniffy-furry/portfolio)	
-CL4R1T4S	🔍 Fork	Leaked system prompts collection	[repo](https://github.com/sniffy-furry/CL4R1T4S)	
+
+ [repo](private-repo)	
+🔍 Fork	Leaked system prompts collection	[repo](https://github.com/sniffy-furry/CL4R1T4S)	
 
 📫 Find me
 
